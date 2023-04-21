@@ -14,9 +14,6 @@ I'm currently working on HotSox and the HotSox API
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=peerhoffmanncode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/peer.hoffmann.14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/peer-hoffmann/) 
 
----
-[![](https://visitcount.itsvg.in/api?id=peerhoffmanncode&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=peerhoffmanncode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
