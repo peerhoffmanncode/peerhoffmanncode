@@ -52,9 +52,7 @@ I'm currently working on HotSox and the HotSox API
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dragon-fire-fly&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragon-fire-fly&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)    
+![Github Stats](https://github-readme-stats.vercel.app/api?username=peerhoffmanncode&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)  
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/peer.hoffmann.14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/peer-hoffmann/) 
 
